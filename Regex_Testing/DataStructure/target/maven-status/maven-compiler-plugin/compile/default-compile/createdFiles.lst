@@ -1,0 +1,17 @@
+com/jboxers/datastructure/persistenceFascade/PersistenceFascade.class
+com/jboxers/datastructure/modelStructure/AbstractEntity.class
+com/jboxers/datastructure/model/HourlyWeather.class
+com/jboxers/datastructure/model/CurrentWeather.class
+com/jboxers/datastructure/model/converter/LocalDateTimeConverter.class
+com/jboxers/datastructure/modelData/HourlyWeatherData.class
+com/jboxers/datastructure/modelData/WeeklyWeatherData.class
+com/jboxers/datastructure/modelStructure/WeatherData.class
+com/jboxers/datastructure/model/WeeklyWeather.class
+com/jboxers/datastructure/model/TenDayWeather.class
+com/jboxers/datastructure/modelData/FiveDayWeatherData.class
+com/jboxers/datastructure/persistenceFascade/SaveData.class
+com/jboxers/datastructure/modelData/CurrentWeatherData.class
+com/jboxers/datastructure/model/FiveDayWeather.class
+com/jboxers/datastructure/modelData/TenDayWeatherData.class
+com/jboxers/datastructure/model/Forecast.class
+com/jboxers/datastructure/persistenceFascade/EntityManagerProducer.class

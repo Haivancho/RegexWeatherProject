@@ -1,0 +1,9 @@
+com/jboxers/regexParser/HourlyWeatherParser.class
+com/jboxers/regexParser/ReadProperty.class
+com/jboxers/regexParser/HttpRequest.class
+com/jboxers/regexParser/WeatherParser.class
+com/jboxers/regexParser/TenDayWeatherParser.class
+com/jboxers/regexParser/CurrentWeatherParser.class
+com/jboxers/regexParser/WeeklyWeatherParser.class
+com/jboxers/regexParser/DataGetter.class
+com/jboxers/regexParser/FiveDayWeatherParser.class

@@ -1,0 +1,17 @@
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelStructure/WeatherData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/converter/LocalDateTimeConverter.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/HourlyWeather.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/FiveDayWeather.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/WeeklyWeather.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/persistenceFascade/SaveData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelData/WeeklyWeatherData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelData/TenDayWeatherData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/TenDayWeather.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/Forecast.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/model/CurrentWeather.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelData/HourlyWeatherData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelStructure/AbstractEntity.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelData/CurrentWeatherData.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/persistenceFascade/PersistenceFascade.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/persistenceFascade/EntityManagerProducer.java
+/home/ibogdanov/Desktop/Regex_Testing/DataStructure/src/main/java/com/jboxers/datastructure/modelData/FiveDayWeatherData.java
